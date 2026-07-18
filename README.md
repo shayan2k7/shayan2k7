@@ -13,10 +13,15 @@
 
 ## 🧑‍💻 More About Me
 
-> *Great products are designed with purpose, not just built with code. Need someone who understands both? You're in the right place :)*
+<blockquote>
+  <em>Great products are designed with purpose, not just built with code.
+    Need someone who understands both? You're in the right place :)</em>
+</blockquote>
 
-Hey there! Shayan this side. A practicing frontend developer. I focus on clean layouts, beautiful and responsive UIs, and smooth user experiences. And yes — I keep all my repos private, so visit my portfolio to view all my projects.
-
+Hey there! Shayan this side.
+A practicing frontend developer.
+I focus on clean layouts, beautiful and responsive UIs, and smooth user experiences.
+And yes! I keep all my repos private, so visit my portfolio to view all my projects...
 ---
 
 ## 🛠️ Tech & Tools
