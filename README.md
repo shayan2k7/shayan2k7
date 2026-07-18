@@ -32,7 +32,8 @@ Hey there! Shayan this side. A practicing frontend developer. I focus on clean l
     <tr>
       <td><strong>Prototyping</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=framer" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" width="48" height="48" />
+        <span style="font-size:14px; margin-left:5px;">Framer</span>
       </td>
     </tr>
     <tr>
